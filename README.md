@@ -9,6 +9,7 @@ For this project I built an app that shows totally accurate, up to the date glob
 - To get the "Updated" time and date to display correctly, 
 
 
+
 ### Features
 | No. | Requirement | Type |
 | --- | --- | --- | --- |
@@ -22,6 +23,8 @@ For this project I built an app that shows totally accurate, up to the date glob
 | 8 | Long names are truncated using ellipses (...) in the list of iSchools | Behavior 
 | 9 | Code correctly imports and uses the provided iSchoolData and Shuffle modules _without any modifications to `iSchoolData.js` or `Shuffle.js`_ 
 | 10 | Code correctly implements and uses a custom Component for displaying each list item | Code 
+
+
 
 
 
