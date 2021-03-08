@@ -11,7 +11,7 @@ For this project I built an app that shows totally accurate, up to the date glob
 
 
 ### Features
-| No. | Requirement | Type |
+| No. | Requirement | Type | Points
 | --- | --- | --- | --- |
 | 1 | A ranked list of iSchools is displayed when the app runs | Behavior 
 | 2 | A shuffled list of ranked iSchools when they press the refresh button | Behavior 
