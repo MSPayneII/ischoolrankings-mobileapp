@@ -2,6 +2,7 @@
 
 For this project I built an app that shows totally accurate, up to the date global rankings for iSchools all over the world JK. The app will always show the University of Michigan School of Information in first place and all of the rest of the iSchools in random order from 2nd place on downward. 
 
+## Video WalkThrough: https://tinyurl.com/5anfnff7
 
 ### Notes:
 - The top-ranked iSchool is displayed as part of the list that contains all of the other schools. It should scroll with the other schools.
